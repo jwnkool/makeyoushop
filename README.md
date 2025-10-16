@@ -9,7 +9,7 @@ Username : admin | Password : 123456
 ![makeyoushop_backend](https://github.com/jwnkool/makeyoushop/blob/master/makeyoushop-backend.PNG)
 
 # Frontend Website
-![makeyoushop_backend](https://github.com/jwnkool/makeyoushop/blob/master/makeyoushop_frontend.PNG)
+![makeyoushop_backend](https://github.com/jwnkool/makeyoushop/blob/master/makeyoushop_frontend.png)
 
 # Error Updated
 Enabled extension=php_intl.dll
